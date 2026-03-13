@@ -3,3 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 data/
 *.pyc
+
+
+  git config --global user.email "shaileshchaud@gmail.com"
+  git config --global user.name "Shailesh Chaudhary"
