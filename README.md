@@ -1,6 +1,6 @@
 #  QA – Local RAG System
 
-A fully local retrieval-augmented question answering system for Extron product documents.  
+A fully local retrieval-augmented question answering system for sample product documents.  
 Built with Python, Jupyter, Sentence Transformers, and a local LLM.
 
 ## Features
